@@ -15,6 +15,12 @@ struct PersistenceController {
         let viewContext = result.container.viewContext
         for _ in 0..<10 {
             let newItem = Item(context: viewContext)
+            newItem.isValid = true
+            newItem.givenName = "Florian"
+            newItem.standardizedGivenName = "FLORIAN"
+            newItem.familyName = "Bauer"
+            newItem.standardizedFamilyName = "BAUER"
+            newItem.dateOfBirth = "1990-04-14"
             newItem.timestamp = Date()
         }
         do {
