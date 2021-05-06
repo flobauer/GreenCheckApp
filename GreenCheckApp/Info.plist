@@ -47,7 +47,7 @@
 		<key>UIColorName</key>
 		<string>customGreen</string>
 		<key>UIImageName</key>
-		<string>splash</string>
+		<string>splash_full</string>
 		<key>UIImageRespectsSafeAreaInsets</key>
 		<true/>
 	</dict>
