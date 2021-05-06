@@ -1,7 +1,8 @@
 # Passt - Verifikation für den Grünen Impfpass
 
 Mobile Applikation, die ein modernes Interface zur Überprüfung des Grünen Impfpass anbietet.
-![badge](https://user-images.githubusercontent.com/1288880/117299829-3ea1d080-ae79-11eb-9dc6-1496e2343d73.gif)
+
+![badge](https://user-images.githubusercontent.com/1288880/117299966-609b5300-ae79-11eb-8b5d-678b94234c2e.gif)
 
 Alle Informationen unter [https://passt.id](https://passt.id)
 
