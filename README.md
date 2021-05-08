@@ -2,7 +2,7 @@
 
 Mobile Applikation, die ein modernes Interface zur Überprüfung des Grünen Impfpass anbietet.
 
-![badge](https://user-images.githubusercontent.com/1288880/117299966-609b5300-ae79-11eb-8b5d-678b94234c2e.gif)
+![badge](https://user-images.githubusercontent.com/1288880/117299966-609b5300-ae79-11eb-8b5d-678b94234c2e.gif) (tbd)
 
 Alle Informationen unter [https://passt.id](https://passt.id)
 
